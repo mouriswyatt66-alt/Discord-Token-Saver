@@ -17,11 +17,6 @@ You will have to regenerate them in order to run your bot again.
 
 You should have received an e-mail + private message from the discord system about this issue (and this is probably why you ended up here).
 
-Info
-As of 01/04/2021, there are 2400 sandboxes with leaked tokens inside in total. Most of them are invalidated thanks to the first leak.
-
-I am running an automatic check against codesandbox to leak new tokens every week or so. New tokens will be added as new files with related bot information, such as the number of guilds and total number of users the bot can interact with. Yes, this means I used the token to login as each bot, yet I have not done anything harmful with them (such as reading messages or banning users).
-
 I will not leak tokens with less than 30+ overall guild users, because I understand people may actually need codesandbox to develop their bot. The goal is to prevent growing bots from putting the privacy of hundreds if not thousands of users at risk.
 
 Keep in mind you are responsible for the safety of your secret tokens. You should NOT leave actively used tokens on publicly available repositories, and that includes codesandbox.
